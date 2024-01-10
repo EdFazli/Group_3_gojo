@@ -1,5 +1,5 @@
 # satoru-gojo
-Strongest JKK sorcerer
+Strongest JJK sorcerer
 
 ## Sukuna Team Members
 
