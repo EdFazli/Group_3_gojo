@@ -1,5 +1,5 @@
 # satoru-gojo
-Custom Repository for DevOps course by GKK Consultant
+Strongest JKK sorcerer
 
 ## Sukuna Team Members
 
