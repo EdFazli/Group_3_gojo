@@ -1,2 +1,2 @@
 -- update test2file
--- rebase-test
+-- this is rebase-test-2
